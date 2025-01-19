@@ -10,7 +10,16 @@ class TinyMouseApp:
     def __init__(self, root):
         self.root = root
         self.root.title("TinyMouse Autoclicker")
-        self.root.iconbitmap("tinymouse.ico")  # Set the application icon
+        
+        # Determine the correct path for the icon file
+        if hasattr(sys, '_MEIPASS'):
+            # Running in a PyInstaller bundle
+            icon_path = os.path.join(sys._MEIPASS, "tinymouse.ico")
+        else:
+            # Running as a regular Python script
+            icon_path = os.path.join(os.path.dirname(__file__), "tinymouse.ico")
+
+        self.root.iconbitmap(icon_path)
 
         # Initialize variables
         self.clicks = []  # Stores the click configurations
