@@ -1,7 +1,7 @@
 
 # 🐭 TinyMouse Autoclicker
 
-TinyMouse Autoclicker is your friendly, lightweight, and intuitive autoclicker built with love in Python. Whether you’re automating tedious tasks or experimenting with creative workflows, TinyMouse has your back! Packed with essential features and a clean GUI, it’s as reliable as it is approachable. ❤️
+TinyMouse is your friendly, lightweight, and intuitive autoclicker built with love in Python. Whether you’re automating tedious tasks or experimenting with creative workflows, TinyMouse has your back! Packed with essential features and a clean GUI, it’s as reliable as it is approachable. ❤️
 
 ---
 
@@ -61,17 +61,17 @@ Don’t want to bother with Python? Download the latest `.exe` file from the [Re
 ---
 
 ## 📸 Screenshots
-*Coming soon! We promise it looks awesome.*
+*Coming soon! I promise it looks awesome.*
 
 ---
 
 ## 🤝 Contribution
-We’d love your help! Whether it’s fixing a bug, suggesting a feature, or just giving feedback, contributions are always welcome. Feel free to submit an issue or a pull request to make TinyMouse even better.
+I’d love your help! Whether it’s fixing a bug, suggesting a feature, or just giving feedback, contributions are always welcome. Feel free to submit an issue or a pull request to make TinyMouse even better.
 
 ---
 
 ## 📜 License
-TinyMouse Autoclicker is proudly open-source and licensed under the GNU General Public License v3.0. Check out the `LICENSE` file for full details.
+TinyMouse is proudly open-source and licensed under the GNU General Public License v3.0. Check out the `LICENSE` file for full details.
 
 ---
 
