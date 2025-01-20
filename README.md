@@ -39,7 +39,7 @@ TinyMouse is your friendly, lightweight, and intuitive autoclicker built with lo
    ```
 
 ### Download Prebuilt Executable
-Don’t want to bother with Python? Download the latest `.exe` file from the [Releases](https://github.com/your-username/tinymouse-autoclicker/releases) page. No installation needed—just download, double-click, and you’re good to go!
+Don’t want to bother with Python? Download the latest `.exe` file from the [Releases](https://github.com/omnifuneral/tinymouse/releases) page. No installation needed—just download, double-click, and you’re good to go!
 
 ---
 
